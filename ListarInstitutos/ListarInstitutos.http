@@ -1,0 +1,6 @@
+@ListarInstitutos_HostAddress = http://localhost:5173
+
+GET {{ListarInstitutos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
