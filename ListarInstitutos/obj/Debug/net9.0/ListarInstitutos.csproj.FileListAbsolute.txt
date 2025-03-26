@@ -31,3 +31,8 @@ D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\obj\Debug\net9.0\refi
 D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\obj\Debug\net9.0\ListarInstitutos.pdb
 D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\obj\Debug\net9.0\ListarInstitutos.genruntimeconfig.cache
 D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\obj\Debug\net9.0\ref\ListarInstitutos.dll
+D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\obj\Debug\net9.0\ListarInstitutos.sourcelink.json
+D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\trabalho\VF-Desafio-Backend\ListarInstitutos\bin\Debug\net9.0\Newtonsoft.Json.dll

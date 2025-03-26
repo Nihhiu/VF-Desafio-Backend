@@ -1,6 +1,21 @@
 @ListarInstitutos_HostAddress = http://localhost:5173
 
-GET {{ListarInstitutos_HostAddress}}/weatherforecast/
-Accept: application/json
+### Listar todas as Universidades
+GET {{ListarInstitutos_HostAddress}}/university/all
+Content-Type: application/json
 
-###
+### Listar todas os Institutos Politecnicos
+GET {{ListarInstitutos_HostAddress}}/university/search?name=Instituto Politécnico
+Content-Type: application/json
+
+### Contar todos os Institutos Politecnicos
+GET {{ListarInstitutos_HostAddress}}/university/search?name=Instituto Politécnico&count=true
+Content-Type: application/json
+
+### Listar todas os Institutos Politecnicos por ordem alfabética crescente
+GET {{ListarInstitutos_HostAddress}}/university/search?name=Instituto Politécnico&order=asc
+Content-Type: application/json
+
+### Listar todas os Institutos Politecnicos por ordem alfabética decrescente
+GET {{ListarInstitutos_HostAddress}}/university/search?name=Instituto Politécnico&order=desc
+Content-Type: application/json
